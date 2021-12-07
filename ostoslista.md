@@ -1,3 +1,4 @@
 -pasta
 -spagetti
 -tomaatti
+-proteiinijuoma
